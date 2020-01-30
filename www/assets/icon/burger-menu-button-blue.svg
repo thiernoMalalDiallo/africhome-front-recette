@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.17" height="68.058" viewBox="0 0 54.17 68.058">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29.663" height="21.011" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_1279" data-name="Groupe 1279" transform="translate(0.326 -54)">
+    <g id="Compte" transform="translate(-5 9)">
+      <g id="Groupe_796" data-name="Groupe 796" transform="translate(-20 45)">
+        <path id="Rectangle_317" data-name="Rectangle 317" d="M0,0H35.844a18,18,0,0,1,18,18v7.364a18,18,0,0,1-18,18H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(25 12.046)" fill="#00d7ff"/>
+        <path id="Tracé_1547" data-name="Tracé 1547" d="M3153.778,930.162s-34.685,3.209-33.939,12.709c.374.128,0-18.871,0-18.871l39.533,3.723Z" transform="translate(-3095.154 -874.814)" fill="#00d7ff"/>
+        <path id="Tracé_1548" data-name="Tracé 1548" d="M3153.455,936.034S3119.1,933,3119.84,924c.37-.121,0,17.867,0,17.867L3159,938.343Z" transform="translate(-3095.154 -924)" fill="#00d7ff"/>
+      </g>
+    </g>
+    <g id="Symbole_11_221" data-name="Symbole 11 – 221" transform="translate(12.337 77.989)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="29.663" height="3" fill="#fff"/>
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="29.663" height="3" transform="translate(0 9.006)" fill="#fff"/>
+      <rect id="Rectangle_5-3" data-name="Rectangle 5" width="18" height="3" transform="translate(0 18.011)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

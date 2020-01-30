@@ -1,0 +1,244 @@
+{
+    "APP": {
+        "NAME": "AfricHome",
+        "BACK": "Retour",
+        "CONNECT": "Se connecter", 
+        "DISCONNECT": "Se déconnecter",
+        "SELECT_TRANSLATE": "Langue",
+        "DEFAULT_VALUE": "-"
+    },
+    "PAGES": {
+
+        "HOME": {
+            "TITLE": "Bienvenue sur AfricHome",
+            "POST_AD_ESTATE": "Publier une annonce immobilière",
+            "SELECT_A_COUNTRY": "Choisissez un pays",
+            "DESCRIPTION": "Africhome est le site référent de petites annonces immobilières de particulier à particulier et professionnels en Afrique. Découvrez l'ensemble de nos annonces immobilières. Déposez une annonce gratuite en toute simplicité pour vendre ou louer vos biens. Avec les annonces mises en ligne chaque jour vous trouverez votre bien immobilier que vous désirez."
+        },
+
+        "AUTHENTICATION": {
+            "FORGOT_PASSWORD": "Mot de passe oublié",
+            "LOG_IN": "Se connecter",
+            "TITLE": "Connexion",
+            "LABELS": {
+                "ID": "Adresse mail",
+                "PASSWORD": "Mot de passe"
+            }
+        },
+
+        "REGISTRATION": {
+            "CREATE_A_COUNT": "S'inscrire",
+            "TITLE": "Créer un compte",
+            "CREATE_MY_ACOUNT": "Créer mon compte"
+        }
+    },
+    
+    "COMPONENTS": {
+
+        "PERSONAL_REGISTRATION": {
+
+            "TITLE": "Personnel",
+            "LABELS": {
+
+                "PSEUDO": "Pseudo",
+                "ID": "Adresse mail",
+                "PASSWORD": "Mot de passe",
+                "CONFIRM_PASSWORD": "Confirmer le mot de passe"
+            }
+        },
+
+        "PROFESSIONAL_REGISTRATION": {
+                
+                "TITLE": "Professionnel",
+                "LABELS": {
+
+                    "PSEUDO": "Pseudo",
+                    "ID": "Adresse mail",
+                    "PASSWORD": "Mot de passe",
+                    "CONFIRM_PASSWORD": "Confirmer le mot de passe",
+                    "YOU_ARE": "Vous êtes",
+                    "GENDER": {
+                        "MAN": "Homme",
+                        "WOMEN": "Femme"
+                    },
+                    "LASTNAME": "Nom",
+                    "FIRSTNAME": "Prénom",
+                    "SOCIETY_NAME": "Nom de la société",
+                    "SOCIETY_MESSAGE": "C'est le nom qui apparaîtra sur vos annonces",
+                    "SIRET": "SIRET",
+                    "ADRESS": "Adresse de la société",
+                    "COUNTRY": "Pays",
+                    "CITY_ZIPCODE": "Ville",
+                    "NUMBER": "Téléphone"
+                },
+                "PART": {
+                    "CONTACT_INFO": "Vos coordonées",
+                    "EMAIL_PASSWORD": "Votre email et mot de passe"
+                }
+        },
+
+        "PUBLISH_AD": {
+            "PART": {
+                "AD": "Votre annonce immobilière",
+                "ADRESS": "Votre adresse",
+                "INFORMATIONS": "Vos informations"
+            },
+            "YOUR_AD": {
+                "YOU_ARE": {
+                    "TITLE": "Vous avez un compte",
+                    "CHOICE": {
+                            "PERSONNAL": "Personnel",
+                            "PROFESSIONAL": "Professionnel"
+                    }
+                },
+                "AD_TYPE": {
+                    "TITLE": "Type d'annonce",
+                    "CHOICE": {
+                        "BUY": "A vendre",
+                        "RENT": "A louer"
+                    }
+                },
+                "AD_TITLE": "Titre de l'annonce",
+                "TYPE_OF_PROPERTY": {
+                    "TITLE": "Type de bien",
+                    "HOUSE": "Maison",
+                    "APPART": "Appartement",
+                    "LAND": "Terrain",
+                    "OFFICE_SHOP": "Bureau & Commerces",
+                    "CHOOSE": "Choisissez un type de bien"
+                },
+                "SURFACE": "Surface en m²",
+                "NUMBER_OF_ROOMS": {
+                    "TITLE": "Nombre de pièces",
+                    "CHOOSE": "Choisissez le nombre de pièces"
+                },
+                "DESCRIPTION_AD": "Description de l'annonce",
+                "PRICE": {
+                    "TITLE": "Prix",
+                    "CURRENCY": "Devise"
+                },
+              
+                "PHOTOS": "Photos"
+            },
+            "YOUR_ADRESS" : {
+                "COUNTRY": "Pays",
+                "CITY": "Ville"
+            },
+            "PERSONNAL_INFORMATIONS": {
+                "PSEUDO": "Pseudo",
+                "SOCIETY_NAME": "Nom de la société",
+                "ADRESS_MAIL": "Adresse mail",
+                "NUMBER": {
+                    "TITLE": "Numéro de téléphone",
+                    "TELEPHONE_CODE": "Indicatif"
+                },
+                "DISPLAY_NUMBER": "Cacher mon numéro dans l'annonce"
+            },
+            "ERROR": {
+                "NOT_VALID_FIELD": "Veuillez renseigner correctement le champ",
+                "NOT_VALID_FIELD_AD": "Vérifiez bien votre annonce immobilière",
+                "NOT_VALID_FIELD_ADRESS": "Vérifiez bien votre adresse",
+                "NOT_VALID_FIELD_INFORMATIONS": "Vérifiez bien vos informations"
+            },
+            "BUTTON": {
+                "TITLE": "Publier"
+            },
+            "REQUIRED_FIELDS": "Champs obligatoires"
+        },
+
+        "SEARCH_AD": {
+
+            "SEARCH": {
+                "TITLE": "Recherche",
+                "PLACEHOLDER": "Que recherchez-vous ?"
+            },
+
+            "LOCATION": {
+                "TITLE": "Localisation"
+            },
+
+            "AD_TYPE": {
+                "TITLE": "Type d'annonce",
+                "CHOICE": {
+                    "BUY":"A vendre",
+                    "RENT":"A louer"
+                }
+            },
+
+            "PROPERTY_TYPE": {
+                "TITLE": "Type de bien",
+                "CHOOSE":"Choisissez un type de bien",
+                "HOUSE":"Maison",
+                "APPART":"Appartement",
+                "LAND":"Terrain",
+                "OFFICE_SHOP":"Bureau & Commerces",
+                "SURFACE": "Surface max en m²"
+            },
+
+            "PRICE": {
+                "TITLE": "Buget Maximum",
+                "CURRENCY": "Devise"
+            }
+        },
+
+        "ADS": {
+            "TITLE": "Annonces immobilières",
+            "SORT": {
+                "SORT_DATE_NEW": "Trier : annonces plus récentes",
+                "SORT_DATE_OLD": "Trier : annonces plus anciennes",
+                "SORT_PRICE_HIGH": "Trier : annonces plus chers",
+                "SORT_PRICE_LESS": "Trier : annonces moins chers"
+            },
+            "CHOICE": {
+                "PERSONNAL": "Personnel",
+                "PROFESSIONAL": "Professionnel"
+            },
+            "FOUND": "trouvées"
+        }
+        
+    },
+
+    "ALERT": {
+    
+    },
+
+    "INFO_BULLE": {
+        "EMPTY_FIELD": "Veuillez renseigner tous les champs obligatoires",
+        "AUTHENTICATION": {
+            "ERROR": {
+                "EMAIL": "Votre adresse mail est incorrect",
+                "PASSWORD": "Votre mot de passe est incorrect",
+                "NO_USER": "Nous n'avons pas trouvé d'utilisateur correspondant à ce compte"
+            }
+        },
+        "REGISTRATION": {
+            "ERROR": {
+                "PSEUDO": "Le pseudo que vous avez choisi existe déja. choisissez un autre",
+                "EMAIL": "Votre adresse mail est incorrect",
+                "PASSWORD": "Votre mot de passe doit contenir au moins 6 caractères",
+                "CONFIRM_PASSWORD": "Le mot de passe saisi n'est pas le même"
+            },
+            "INFO": {
+                "PASSWORD": "Au moins 6 caractères"
+            }
+        }
+        
+    },
+
+    "MENU": {
+        "MY_ADS": "Mes annonces",
+        "My_FAVORITES": "Mes favoris",
+        "My_INFORMATIONS": "Mes informations"
+    },
+
+    "BUTTON": {
+        "POST_AD": "Publier une annonce",
+        "SEARCH": "Rechercher"
+    },
+
+    "FOOTER": {
+        "CONTACT_US": "Contactez-nous",
+        "CONDITIONS_USE": "Conditions d'utilisations",
+        "AFRICHOME": "Africhome 2020"
+    }
+}

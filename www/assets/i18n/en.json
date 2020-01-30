@@ -1,0 +1,244 @@
+{
+    "APP": {
+        "NAME": "AfricHome",
+        "BACK": "Retour",
+        "CONNECT": "Log in", 
+        "DISCONNECT": "Log out",
+        "SELECT_TRANSLATE": "Language",
+        "DEFAULT_VALUE": "-"
+    },
+    "PAGES": {
+
+        "HOME": {
+            "TITLE": "Welcome to AfricHome",
+            "POST_AD_ESTATE": "Publish a real estate ad",
+            "SELECT_A_COUNTRY": "Choose a country",
+            "DESCRIPTION": "Africhome is the referent site of real estate advertisements from private individuals to individuals and professionals in Africa. Discover all of our real estate listings. Post a free listing with ease to sell or rent your property. With the ads posted every day you will find your property that you want."
+        },
+
+        "AUTHENTICATION": {
+            "FORGOT_PASSWORD": "Forgot your password",
+            "LOG_IN": "Log in",
+            "TITLE": "Authentication",
+            "LABELS": {
+                "ID": "Mail adress",
+                "PASSWORD": "Password"
+            }
+        },
+
+        "REGISTRATION": {
+            "CREATE_A_COUNT": "Registration",
+            "TITLE": "Create an acount",
+            "CREATE_MY_ACOUNT": "Create my acount"
+        }
+
+    },
+    
+    "COMPONENTS": {
+
+        "PERSONAL_REGISTRATION": {
+            "TITLE": "Personal",
+            "LABELS": {
+
+                "PSEUDO": "Pseudo",
+                "ID": "Email adress",
+                "PASSWORD": "Password",
+                "CONFIRM_PASSWORD": "Confirmed password"
+            }
+        },
+
+        "PROFESSIONAL_REGISTRATION": {
+
+                "TITLE": "Professional",
+                "LABELS": {
+                    
+                    "PSEUDO": "Pseudo",
+                    "ID": "Email adress",
+                    "PASSWORD": "Password",
+                    "CONFIRM_PASSWORD": "Confirmed password",
+                    "YOU_ARE": "You are",
+                    "GENDER": {
+                        "MAN": "Man",
+                        "WOMEN": "Women"
+                    },
+                    "LASTNAME": "Lastname",
+                    "FIRSTNAME": "Firstname",
+                    "SOCIETY_NAME": "Society name",
+                    "SOCIETY_MESSAGE": "This is the name that appears on your ads",
+                    "SIRET": "SIRET",
+                    "COUNTRY": "Country",
+                    "ADRESS": "Society adress",
+                    "CITY_ZIPCODE": "City",
+                    "NUMBER": "Number"
+                },
+                "PART": {
+                    "CONTACT_INFO": "Contact informations",
+                    "EMAIL_PASSWORD": "Your email and password"
+                }
+        },
+
+        "PUBLISH_AD": {
+            "PART": {
+                "AD": "Your real estate ad",
+                "ADRESS": "Your adress",
+                "INFORMATIONS": "Your informations"
+            },
+            "YOUR_AD": {
+                "YOU_ARE": {
+                    "TITLE": "Your count is",
+                    "CHOICE": {
+                            "PERSONNAL": "Personal",
+                            "PROFESSIONAL": "Professional"
+                    }
+                },
+                "AD_TYPE": {
+                    "TITLE": "Ad type",
+                    "CHOICE": {
+                        "BUY": "For sale",
+                        "RENT": "For rent"
+                    }
+                },
+                "AD_TITLE": "Ad title",
+                "TYPE_OF_PROPERTY": {
+                    "TITLE": "Property type",
+                    "HOUSE": "House",
+                    "APPART": "Apartment",
+                    "LAND": "Land",
+                    "OFFICE_SHOP": "Offices & Shops",
+                    "CHOOSE": "Choose your property type"
+                },
+                "SURFACE": "Surface in m²",
+                "NUMBER_OF_ROOMS": {
+                    "TITLE": "Number of rooms",
+                    "CHOOSE": "Choose the number of rooms"
+                },
+                "DESCRIPTION_AD": "Description of ad",
+                "PRICE": {
+                    "TITLE": "Price",
+                    "CURRENCY": "Currency"
+                },
+              
+                "PHOTOS": "Photos"
+            },
+            "YOUR_ADRESS" : {
+                "COUNTRY": "Country",
+                "CITY": "City"
+            },
+            "PERSONNAL_INFORMATIONS": {
+                "PSEUDO": "Pseudo",
+                "SOCIETY_NAME": "Society name",
+                "ADRESS_MAIL": "Email adress",
+                "NUMBER": {
+                    "TITLE": "Number",
+                    "TELEPHONE_CODE": "Telephone code"
+                },
+                "DISPLAY_NUMBER": "Hide my number in ad"
+            },
+            "ERROR": {
+                "NOT_VALID_FIELD": "Please enter the field correctly",
+                "NOT_VALID_FIELD_AD": "Check your Real estate ad well",
+                "NOT_VALID_FIELD_ADRESS": "Check your Address",
+                "NOT_VALID_FIELD_INFORMATIONS": "Check your Informations"
+            },
+            "BUTTON": {
+                "TITLE": "Publish"
+            },
+            "REQUIRED_FIELDS": "Required fields"
+        },
+
+        "SEARCH_AD": {
+
+            "SEARCH": {
+                "TITLE": "Search",
+                "PLACEHOLDER": "What are you looking for ?"
+            },
+
+            "LOCATION": {
+                "TITLE": "Location"
+            },
+
+            "AD_TYPE": {
+                "TITLE": "Ad type",
+                "CHOICE": {
+                    "BUY":"To buy",
+                    "RENT":"To rent"
+                }
+            },
+
+            "PROPERTY_TYPE": {
+                "TITLE": "Property type",
+                "CHOOSE":"Choose a proprety type",
+                "HOUSE":"House",
+                "APPART":"Apartment",
+                "LAND":"Land",
+                "OFFICE_SHOP":"Offices & Shops",
+                "SURFACE": "Area max in m²"
+            },
+
+            "PRICE": {
+                "TITLE": "Maximum budget",
+                "CURRENCY": "Currency"
+            }
+        },
+
+        "ADS": {
+            "TITLE": "Ads",
+            "SORT": {
+                "SORT_DATE_NEW": "Sort : more recent ads",
+                "SORT_DATE_OLD": "Sort : more old ads",
+                "SORT_PRICE_HIGH": "Sort : more expensive ads",
+                "SORT_PRICE_LESS": "Sort : less expensive ads"
+            },
+            "CHOICE": {
+                "PERSONNAL": "Personnal",
+                "PROFESSIONAL": "Professional"
+            },
+            "FOUND": "found"
+        }
+         
+    },
+
+    "ALERT": {
+    
+    },
+
+    "INFO_BULLE": {
+        "EMPTY_FIELD": "Please complete all required fields",
+        "AUTHENTICATION": {
+            "ERROR": {
+                "EMAIL": "Your email is incorrect",
+                "PASSWORD": "Your password is incorrect",
+                "NO_USER": "We don't find a user for this account"
+            }
+        },
+        "REGISTRATION": {
+            "ERROR": {
+                "PSEUDO": "The nickname you chose already exists. choose another",
+                "EMAIL": "Your email is incorrect",
+                "PASSWORD": "Your password must contain at least 6 characters",
+                "CONFIRM_PASSWORD": "The password entered is not the same"
+            },
+            "INFO": {
+                "PASSWORD": "At least 6 characters"
+            }
+        }
+        
+    },
+
+    "MENU": {
+        "MY_ADS": "My ads",
+        "My_FAVORITES": "My favorites",
+        "My_INFORMATIONS": "My informations"
+    },
+
+    "BUTTON": {
+        "POST_AD": "Post an ad",
+        "SEARCH": "Search"
+    },
+
+    "FOOTER": {
+        "CONTACT_US": "Contact us",
+        "CONDITIONS_USE": "Conditions of use",
+        "AFRICHOME": "Africhome 2020"
+    }
+}
